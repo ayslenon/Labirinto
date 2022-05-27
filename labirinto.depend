@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1638628642 source:d:\arquivos\ufrn\2021_2\programação avançada\unidade 2\8-projeto - labirinto\labirinto\coord.cpp
+	<cmath>
+	"coord.h"
+
+1638628642 d:\arquivos\ufrn\2021_2\programação avançada\unidade 2\8-projeto - labirinto\labirinto\coord.h
+	<iostream>
+
+1638628642 source:d:\arquivos\ufrn\2021_2\programação avançada\unidade 2\8-projeto - labirinto\labirinto\labirinto_main.cpp
+	<iostream>
+	<iomanip>
+	<chrono>
+	"labirinto.h"
+
+1641950301 d:\arquivos\ufrn\2021_2\programação avançada\unidade 2\8-projeto - labirinto\labirinto\labirinto.h
+	<vector>
+	"coord.h"
+	"noh.h"
+
+1641950345 source:d:\arquivos\ufrn\2021_2\programação avançada\unidade 2\8-projeto - labirinto\labirinto\noh.cpp
+	"noh.h"
+	<cmath>
+	<algorithm>
+
+1641950357 d:\arquivos\ufrn\2021_2\programação avançada\unidade 2\8-projeto - labirinto\labirinto\noh.h
+	"coord.h"
+	"noh.h"
+
+1641950754 source:d:\arquivos\ufrn\2021_2\programação avançada\unidade 2\8-projeto - labirinto\labirinto\labirinto.cpp
+	<iomanip>
+	<fstream>
+	<list>
+	<algorithm>
+	"labirinto.h"
+	"noh.h"
+
